@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@moisesjurad0'
+    twitter: # '@moisesjurad0'
     stack-overflow: 3499921/moisesj # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -87,9 +87,9 @@ experiences:
         company: Indra (Telefonica del Perú), Lima
         details: |
             - Python, Blue Prism.
+            - DevOps env with BitBucket pipelines + SonarCloud + Docker + k8s
             - SQL Server.
             - Production / Certification releases on BitBucket pipelines.
-            - Docker
             - AWK.
             - Scrum.
       - role: Lead Developer
