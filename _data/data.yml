@@ -3,135 +3,382 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Moisés Jurado
-    tagline: Full Stack, Py, C#, Java Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Moisés Jurado
+  tagline: Full Stack, Py, C#, Java Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: moises003@gmail.com
-    phone: #012 345 6789
-    timezone: America/Perú Timezone
-    citizenship:
-    website: moisesjurad0.github.io/online-cv #do not add http://
-    linkedin: moisesjurad0
-    xing: #alandoe
-    github: moisesjurad0
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: # '@moisesjurad0'
-    stack-overflow: 3499921/moisesj # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: moises003@gmail.com
+  phone: #012 345 6789
+  timezone: America/Perú Timezone
+  citizenship:
+  website: moisesjurad0.github.io/online-cv #do not add http://
+  linkedin: moisesjurad0
+  xing: #alandoe
+  github: moisesjurad0
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: # '@moisesjurad0'
+  stack-overflow: 3499921/moisesj # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: #http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-        - idiom: Spanish
-          level: Native
+      - idiom: Spanish
+        level: Native
 
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Climbing
-    #       link:
+  # interests:
+  #   title: Interests
+  #   info:
+  #     - item: Climbing
+  #       link:
 
-    #     - item: Snowboarding
-    #       link:
+  #     - item: Snowboarding
+  #       link:
 
-    #     - item: Cooking
-    #       link:
+  #     - item: Cooking
+  #       link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Systems analyst graduated from Universidad de Piura.
+  title: Career Profile
+  summary: |
+    # Hi 👋 I'm Moisés, thanks for visiting my profile
+
+    I'm a senior developer with 9 years of experience. 
+
+    ## My set of skills:
+
+    - Python (Django, Flask, Selenium, Beautiful Soup, Requests, Pandas)
+    - Java (Spring, JMS, MDB)
+    - C#, .NET, ASP.NET MVC, Web API, WCF
+    - Blue Prism
+    - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
+    - Git (GitHub, GitHub Actions, GitLab, BitBucket)
+    - AWS, Azure
+    - Charging Systems
+    - Applications Servers and Network Servers.
 education:
-    title: Education
-    info:
-      - degree: Systems Analist
-        university: Escuela Tecnológica Superior (Universidad de Piura)
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: Systems Programmer
-        university: Escuela Tecnológica Superior (Universidad de Piura)
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: Systems Analist
+      university: Escuela Tecnológica Superior (Universidad de Piura)
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Systems Programmer
+      university: Escuela Tecnológica Superior (Universidad de Piura)
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2020 - 2022
-        company: Indra (Telefonica del Perú), Lima
-        details: |
-            - Python, Blue Prism.
-            - DevOps env with BitBucket pipelines + SonarCloud + Docker + k8s
-            - SQL Server.
-            - Production / Certification releases on BitBucket pipelines.
-            - AWK.
-            - Scrum.
-      - role: Lead Developer
-        time: 2019 - 2020
-        company: Global HITSS (Claro), Lima
-        details: |
-            - Java, MDB.
-            - Oracle PL/SQL.
-            - Production / Certification releases with IBM Rational Team Concert.
-            - AWK.
-            - Scrum.
-      - role: Developer
-        time: 2018 - 2019
-        company: MDP Consulting (Claro), Lima
-        details: |
-            - Java, MDB.
-            - Oracle PL/SQL.
-            - Production / Certification releases with IBM Rational Team Concert.
-            - Scrum.
-      - role: Developer
-        time: 2018 - 2018
-        company: MDP Consulting (Belmond), Lima
-        details: |
-          - Web development (.NET MVC, WCF, JQuery, Ajax, JSON).
-          - SQL Server.
-      - role: Developer
-        time: 2016 - 2017
-        company: Sanitas Perú, Lima
-        details: |
-          - Web development (.NET MVC, WCF, JQuery, Ajax, JSON).
-          - Git repos administration.
-          - Oracle PL/SQL, NHibernate and NHibernate Fluent.
-          - Production / Certification releases.
-          - Scrum.
-      - role: Developer
-        time: 2014 - 2016
-        company: CosapiData (Claro), Lima
-        details: |
-          - Web development (ASP .NET, WCF, Javascript, JQuery, Ajax, JSON).
-          - Oracle PL/SQL.
-          - Team Foundation Server.
-          - Production / Certification releases with Harvest Workbench.
+  title: Experiences
+  info:
+    - role: Lean RPA Analyst
+      time: Nov 2020 - Aug 2022
+      company: Indra
+      details: |
+        ## Client: Telefónica del Perú
+
+        ## About :
+        I worked for the "Claims Team" designing and developing robots & automations for the processes of "registering a claim", "previous consultation of the claim", "answering the claim", for claims from Osiptel origin (landline & mobile, 1st & 2nd instance) & the "Book of Claims" (Indecopi origin).
+
+        I led the technical part of the team, did passes to production & monitoring, issues troubleshooting, repos administration, team mentoring, team training for devOps, stakeholder management & improvement proposals.
+
+        ## Technologies:
+        - Python
+        - Python - Requests
+        - Python - Selenium, Chrome Driver
+        - Python - Pandas
+        - Python - Beautiful Soup
+        - Python - pysftp
+        - Python - SQLAlchemy
+        - SQL Server
+        - Docker + k8s
+        - Blue Prism + VB.NET modules + C# modules
+        - AWK (Linux)
+
+        ## Process: Scrum, RPA
+
+        ## Tools:
+        - Git / BitBucket / BitBucket Pipelines
+        - SonarCloud
+        - Jira / Trello
+        - Splunk
+    - role: Technical leader
+      time: Oct 2019 - Nov 2020
+      company: Global HITSS (Claro), Lima
+      details: |
+        ## Client: Claro (América Móvil)
+
+        ## About :
+        After my previous experience working for the same client I became a technical leader and led the team achieve other goals on the project e.g.      
+        - Maintenance of the E2E Notificaction Procesess documentend and align to Claro Development Standars
+        - Management and monitoring of Production Passes.
+        - Risk Management of initiatives.
+        - Issues troubleshooting for Prepaid Platform & Apps 
+        - Participation in the committees of production passes. Transfer to support and monitoring teams
+        - Definition and implementation of the "Navigation Attempt for Prepaid Clients - Notification"
+        - "Turning On the phone for Prepaid Clients - Notification"
+        - "Degradation of Wireless Internet IFI and LTE - Notification"
+        - Linux Scripts migration from using IN (Optiva) to use CBIO (Ericson)
+        - Programming of the EAI integration to reduce the load of transactions reaching the IN, using Huawei PCRF as an intermediary
+
+        ## Technologies:
+        - Java
+        - Spring
+        - SOAP
+        - REST
+        - Java Message Service (JMS)
+        - Message-Driven Bean (MDB)
+        - Oracle WebLogic Server SOA
+        - Oracle WebLogic Server Middleware
+        - Oracle Service Bus (OSB)
+        - Oracle Database
+        - Linux scripting
+        - Huawei USSD
+        - Huawei IPCC IVR
+        - SAT Push Mobiera
+        - Mahindra NGAGE Notifications Manager
+        - IN Charging System (Intelligent Network Charging System)
+        - AWK
+        - Huawei PCRF
+        - Oracle WebLogic EAI (Enterprise Application Integration)
+
+        ## Process: Scrum & Waterfall
+
+        ## Tools:
+        - IBM Rational Team Concert
+        - Git, BitBucket
+        - Apache Subversion (SVN)
+        - SonarQube
+        - Trello
+        - SoapUI
+        - Postman
+        - Spring Tool Suite
+        - Putty, Kitty
+        - KornShell
+        - Vim
+        - WinSCP
+    - role: Software Developer
+      time: Oct 2018 - Oct 2019
+      company: MDP Consulting
+      details: |
+        ## Client: Claro (América Móvil)
+
+        ## About :
+        I worked for the team "Functional Notifications" after called "Automatic Notifications" developing, testing and delivering documented features and fixes with the objective to sell mobile data packages when some mobile event were triggered through notifications (interactive messages in mobile phones) e.g.
+        - development and maintenance of the "Recharge - Notification"
+        - "Triple your Phone Credit - Notification"
+        - "Upgrade at Data Depletion - Notification"
+        - "Call without Phone Credit - Notification"
+        - Participation in the in-house project "Functional Notifications Engine"
+
+        ## Technologies:
+        - Java
+        - Spring
+        - SOAP
+        - REST
+        - Java Message Service (JMS)
+        - Message-Driven Bean (MDB)
+        - Oracle WebLogic Server SOA
+        - Oracle WebLogic Server Middleware
+        - Oracle Service Bus (OSB)
+        - Oracle Database
+        - Linux scripting
+        - Huawei USSD
+        - Huawei IPCC IVR
+        - SAT Push Mobiera
+        - Mahindra NGAGE Notifications Manager
+        - IN Charging System (Intelligent Network Charging System)
+
+        ## Process: Scrum & Waterfall
+
+        ## Tools:
+        - IBM Rational Team Concert
+        - Git, BitBucket
+        - Apache Subversion (SVN)
+        - SonarQube
+        - Trello
+        - SoapUI
+        - Postman
+        - Spring Tool Suite
+        - Putty, Kitty
+        - KornShell
+        - WinSCP
+    - role: Software Developer
+      time: Apr 2018 - Oct 2018
+      company: MDP Consulting
+      details: |
+        ## Client: Belmond
+
+        ## About :
+        I had participation in the projects: "schools web" to modify rules and fares for children field trips in Belmond's Cusco local trains, and "information screens" also for trains.
+
+        ## Technologies:
+        - C#
+        - ASP.NET MVC
+        - Razor
+        - WCF
+        - LINQ
+        - Entity Framework
+        - IIS
+        - JavaScript
+        - jQuery
+        - Bootstrap
+        - HTML5
+        - CSS3
+        - AJAX
+        - JSON
+        - XML
+        - SQL Server
+        - WPF
+
+        ## Process: Scrum
+
+        ## Tools:
+        - Git, BitBucket
+        - SonarQube
+        - OWASP
+        - SoapUI
+        - Postman
+    - role: Software Developer
+      time: Aug 2016 - Jun 2017
+      company: Sanitas Perú EPS
+      details: |
+        ## Client: "internal IT staff member"
+
+        ## About :
+        - I developed, tested, deliver and documented features and fixes to the the main app of affiliations and sales.      
+        - I developed a windows service to report our affiliations & disaffiliation records in real time to the National Superintendence of Health (SUSALUD) by putting messages in their queue.
+        - I trained the developer team in the use of source control systems (git) and the instalation & use of GitLab.       
+
+        ## Technologies:
+        - C#
+        - ASP.NET MVC
+        - Razor
+        - WCF
+        - LINQ
+        - NHibernate
+        - Fluent NHibernate
+        - IIS
+        - JavaScript
+        - jQuery
+        - Bootstrap
+        - HTML5
+        - CSS3
+        - AJAX
+        - JSON
+        - XML
+        - Oracle Database
+        - Java
+        - Windows Services
+        - WebSphere MQ
+
+        ## Process: Agile
+
+        ## Tools:
+        - Git, GitLab
+        - SoapUI
+        - Postman
+    - role: Software Developer
+      time: Aug 2014 - Aug 2016
+      company: CosapiData
+      details: |
+        ## Client: Claro (América Móvil)
+
+        ## About:
+        I developed, documented and pass (to certification and production) various features to the many apps in the company especially to the prepaid and postpaid web apps (.NET).
+        I also worked developing and delivering fixes, as I was for almost a year level 3 escalation for level 2 helpdesk tickets for about a 100 of them among multiple apps.
+
+        ## Technologies:
+        - C#
+        - Visual Basic .NET
+        - ASP.NET
+        - WCF
+        - IIS
+        - LINQ
+        - JavaScript
+        - jQuery
+        - Bootstrap
+        - HTML
+        - CSS
+        - AJAX
+        - JSON
+        - XML
+        - Oracle Database
+        - Nice Systems
+        - AutoIt
+
+        ## Process: Waterfall
+
+        ## Tools:
+        - SoapUI 
+        - CA Harvest
+        - Microsoft Team Foundation Server
+    - role: Software Developer
+      time: Oct 2013 - Jun 2014
+      company: Matzziel Salcedo Consultores
+      details: |
+        ## Client: "internal IT staff member"
+
+        ## About :
+        I developed and proposed requirements from meetings with clients e.g.
+        - app for collections, bonuses and loans for the Retirement Military Cooperative Aid (ACMR Perú - nonprofit organization)
+        - In-house "warehouse management app" - New Modules
+        - In-house "warehouse management app" - SQL Server 2005 migration to SQL Server 2008
+        - In-house "warehouse management app" - DevExpress 3 migration to DevExpress 10
+        - In-house "warehouse management app" - Integration to Siscont app
+
+        ## Technologies:
+        - C#
+        - Visual Basic .NET (VB.NET)
+        - DevExpress 3
+        - DevExpress 10
+        - SQL Server 2005
+        - SQL Server 2008
+
+        ## Tools:
+        - Siscont
+    - role: System Assistant
+      time: Mar 2013 - Aug 2013
+      company: METROIL
+      details: |
+        ## Client: "internal IT staff member"
+
+        ## About :
+        I worked as an internal IT staff member of the company where the main bussiness was the calibration and certification of measuring devices.
+        I did maintenance of the "calibrations app" and support for Debian users to maintain them connected from its Debian clients to their remote desktops inside Windows Server through rdesktop.
+
+        ## Technologies:
+        - Visual Basic 6.0 (VB6)
+        - Visual Basic .NET (VB.NET)
+        - SQL Server 2008
+        - Windows Server
+        - Debian (Linux)
+
 # projects:
 #     title: Projects
 #     intro: >
@@ -201,49 +448,49 @@ experiences:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 85%
-            
-      - skill:
-        name: Docker
-        level: 65%
+  toolset:
+    - name: Python & Django
+      level: 85%
 
-      - name: Javascript & jQuery
-        level: 70%
+    - skill:
+      name: Docker
+      level: 65%
 
-      - name: HTML5 & CSS
-        level: 70%
+    - name: Javascript & jQuery
+      level: 70%
 
-      - skill:
-        name: C#
-        level: 80%
+    - name: HTML5 & CSS
+      level: 70%
 
-      - skill:
-        name: Java
-        level: 80%
+    - skill:
+      name: C#
+      level: 80%
 
-      - skill:
-        name: Git & GitHub
-        level: 80%
+    - skill:
+      name: Java
+      level: 80%
 
-      - skill:
-        name: Jekyll
-        level: 50%
+    - skill:
+      name: Git & GitHub
+      level: 80%
 
-      - skill:
-        name: PL/SQL
-        level: 75%
+    - skill:
+      name: Jekyll
+      level: 50%
 
-      - skill:
-        name: SQL Server
-        level: 75%
+    - skill:
+      name: PL/SQL
+      level: 75%
 
-      - skill:
-        name: Scrum
-        level: 85%
+    - skill:
+      name: SQL Server
+      level: 75%
+
+    - skill:
+      name: Scrum
+      level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
