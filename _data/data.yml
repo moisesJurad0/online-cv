@@ -451,37 +451,57 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 85%
 
     - skill:
-      name: Docker
-      level: 65%
+      name: Python
+      level: 100%
 
-    - name: Javascript & jQuery
+    - skill:
+      name: Selenium
+      level: 90%
+
+    - skill:
+      name: Django & Flask
       level: 70%
 
-    - name: HTML5 & CSS
+    - skill:
+      name: Docker & Compose
+      level: 70%
+
+    - skill:
+      name: AWS, Azure
+      level: 50%
+
+    - skill:
+      name: Javascript & jQuery
+      level: 70%
+
+    - skill:
+      name: HTML5 & CSS
       level: 70%
 
     - skill:
       name: C#
-      level: 80%
+      level: 100%
 
     - skill:
       name: Java
       level: 80%
 
     - skill:
-      name: Git & GitHub
-      level: 80%
+      name: Git & GitHub & Github Actions, GitLab
+      level: 90%
+
+    - skill:
+      name: Jenkins
+      level: 60%
 
     - skill:
       name: Jekyll
       level: 50%
 
     - skill:
-      name: PL/SQL
+      name: Oracle Database
       level: 75%
 
     - skill:
