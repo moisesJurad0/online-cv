@@ -149,28 +149,32 @@ experiences:
         ++ Technologies:
         - Java
         - Spring
+        - Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
         - Message-Driven Bean (MDB)
         - Oracle WebLogic Server SOA
         - Oracle WebLogic Server Middleware
+        - Oracle WebLogic EAI
         - Oracle Service Bus (OSB)
         - Oracle Database
         - Linux scripting
-        - Huawei USSD
-        - Huawei IPCC IVR
-        - SAT Push Mobiera
-        - Mahindra NGAGE Notifications Manager
-        - IN Charging System (Intelligent Network Charging System)
-        - AWK
+        - Apache James Server
+        - Huawei - USSD gateway (Unstructured Supplementary Service Data)
+        - Huawei - IPCC IVR (Internet Protocol Contact Center, Interactive Voice Response)
+        - Mobiera - SAT gateway
+        - Mahindra - NGAGE Notifications Manager
+        - Nokia - IN Unified OCS (Intelligent Network, Online Charging System)
+        - Optiva - IN (Intelligent Network)
         - Huawei PCRF
-        - Oracle WebLogic EAI (Enterprise Application Integration)
+        - AWK
 
         ++ Process: Scrum & Waterfall
 
         ++ Tools:
         - IBM Rational Team Concert
+        - ELK - Elasticsearch, Logstash, Kibana
         - Git, BitBucket
         - Apache Subversion (SVN)
         - SonarQube
@@ -199,20 +203,24 @@ experiences:
         ++ Technologies:
         - Java
         - Spring
+        - Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
         - Message-Driven Bean (MDB)
         - Oracle WebLogic Server SOA
         - Oracle WebLogic Server Middleware
-        - Oracle Service Bus (OSB)
+        - Oracle WebLogic EAI
+        - Oracle Service Bus (OSB)      
         - Oracle Database
         - Linux scripting
-        - Huawei USSD
-        - Huawei IPCC IVR
-        - SAT Push Mobiera
-        - Mahindra NGAGE Notifications Manager
-        - IN Charging System (Intelligent Network Charging System)
+        - Apache James Server
+        - Huawei - USSD gateway (Unstructured Supplementary Service Data)
+        - Huawei - IPCC IVR (Internet Protocol Contact Center, Interactive Voice Response)
+        - Mobiera - SAT gateway  (SMS Application Testing)
+        - Mahindra - NGAGE Notifications Manager
+        - Nokia - IN Unified OCS (Intelligent Network, Online Charging System)
+        - Optiva - IN (Intelligent Network)
 
         ++ Process: Scrum & Waterfall
 
