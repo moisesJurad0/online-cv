@@ -294,6 +294,7 @@ experiences:
         - IIS
         - JavaScript
         - jQuery
+        - Node.js, Grunt, grunt-sri
         - Bootstrap
         - HTML5
         - CSS3
