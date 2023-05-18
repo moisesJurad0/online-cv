@@ -150,8 +150,8 @@ experiences:
 
         ++ Technologies:
         - Java
-        - Spring
-        - Maven
+        - Spring Framework
+        - Apache Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
@@ -205,8 +205,8 @@ experiences:
 
         ++ Technologies:
         - Java
-        - Spring
-        - Maven
+        - Spring Framework
+        - Apache Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
@@ -250,12 +250,13 @@ experiences:
         I had participation in the projects: "schools web" to modify rules and fares for children field trips in Belmond's Cusco local trains, and "information screens" also for trains.
 
         ++ Technologies:
+        - Microsoft .NET Framework
         - C#
         - ASP.NET MVC
         - Razor
         - WCF
         - LINQ
-        - Entity Framework
+        - Microsoft Entity Framework
         - IIS
         - JavaScript
         - jQuery
@@ -289,6 +290,7 @@ experiences:
         - I trained the developer team in the use of source control systems (git) and the instalation & use of GitLab.       
 
         ++ Technologies:
+        - Microsoft .NET Framework
         - C#
         - ASP.NET MVC
         - Razor
@@ -329,6 +331,7 @@ experiences:
         I also worked developing and delivering fixes, as I was for almost a year level 3 escalation for level 2 helpdesk tickets for about a 100 of them among multiple apps.
 
         ++ Technologies:
+        - Microsoft .NET Framework
         - C#
         - Visual Basic .NET
         - ASP.NET
@@ -368,8 +371,9 @@ experiences:
         - In-house "warehouse management app" - Integration to Siscont app
 
         ++ Technologies:
+        - Microsoft .NET Framework
         - C#
-        - Visual Basic .NET (VB.NET)
+        - Visual Basic .NET
         - Microsoft SQL Server
         - SQL, T-SQL
         - DevExpress
@@ -387,8 +391,9 @@ experiences:
         I did maintenance of the "calibrations app" and support for Debian users to maintain them connected from its Debian clients to their remote desktops inside Windows Server through rdesktop.
 
         ++ Technologies:
-        - Visual Basic 6.0 (VB6)
-        - Visual Basic .NET (VB.NET)
+        - Microsoft .NET Framework
+        - Visual Basic 6.0
+        - Visual Basic .NET
         - Microsoft SQL Server
         - SQL, T-SQL
         - Microsoft Windows Server
