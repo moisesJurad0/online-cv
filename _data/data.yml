@@ -115,7 +115,8 @@ experiences:
         - Python - Beautiful Soup
         - Python - pysftp
         - Python - SQLAlchemy
-        - SQL Server
+        - Microsoft SQL Server
+        - SQL, T-SQL
         - Docker + k8s
         - Blue Prism + VB.NET modules + C# modules
         - AWK (Linux)
@@ -125,6 +126,7 @@ experiences:
         ++ Tools:
         - Git / BitBucket / BitBucket Pipelines
         - SonarCloud
+        - Postman
         - Jira / Trello
         - Splunk
     - role: Technical leader
@@ -159,6 +161,7 @@ experiences:
         - Oracle WebLogic EAI
         - Oracle Service Bus (OSB)
         - Oracle Database
+        - SQL, PL/SQL
         - Linux scripting
         - Apache James Server
         - Huawei - USSD gateway (Unstructured Supplementary Service Data)
@@ -213,6 +216,7 @@ experiences:
         - Oracle WebLogic EAI
         - Oracle Service Bus (OSB)      
         - Oracle Database
+        - SQL, PL/SQL
         - Linux scripting
         - Apache James Server
         - Huawei - USSD gateway (Unstructured Supplementary Service Data)
@@ -260,9 +264,10 @@ experiences:
         - CSS3
         - AJAX
         - JSON
-        - XML
-        - SQL Server
+        - Microsoft SQL Server
+        - SQL, T-SQL
         - WPF
+        - Azure
 
         ++ Process: Scrum
 
@@ -302,6 +307,7 @@ experiences:
         - JSON
         - XML
         - Oracle Database
+        - SQL, PL/SQL
         - Java
         - Windows Services
         - WebSphere MQ
@@ -314,7 +320,7 @@ experiences:
         - Postman
     - role: Software Developer
       time: Aug 2014 - Aug 2016
-      company: CosapiData
+      company: Cosapi Data
       details: |
         ++ Client: Claro (América Móvil)
 
@@ -338,7 +344,7 @@ experiences:
         - JSON
         - XML
         - Oracle Database
-        - Nice Systems
+        - SQL, PL/SQL
         - AutoIt
 
         ++ Process: Waterfall
@@ -364,10 +370,9 @@ experiences:
         ++ Technologies:
         - C#
         - Visual Basic .NET (VB.NET)
-        - DevExpress 3
-        - DevExpress 10
-        - SQL Server 2005
-        - SQL Server 2008
+        - Microsoft SQL Server
+        - SQL, T-SQL
+        - DevExpress
 
         ++ Tools:
         - Siscont
@@ -384,9 +389,10 @@ experiences:
         ++ Technologies:
         - Visual Basic 6.0 (VB6)
         - Visual Basic .NET (VB.NET)
-        - SQL Server 2008
-        - Windows Server
-        - Debian (Linux)
+        - Microsoft SQL Server
+        - SQL, T-SQL
+        - Microsoft Windows Server
+        - Debian GNU/Linux
 
 # projects:
 #     title: Projects
@@ -467,6 +473,10 @@ skills:
     - skill:
       name: Selenium
       level: 90%
+
+    - skill:
+      name: Python - RPA Framework & Robot Framework & Robocorp
+      level: 70%
 
     - skill:
       name: Django & Flask
