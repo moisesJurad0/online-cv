@@ -55,7 +55,7 @@ career-profile:
   summary: |
     Hi 👋 I'm Moisés, thanks for visiting my profile
 
-    I'm a sr developer with 9 years of experience. 
+    I'm a sr developer with 9 years of experience
 
     ++ My set of skills:
 
@@ -67,13 +67,13 @@ career-profile:
     - Git (GitHub, GitHub Actions, GitLab, BitBucket)
     - AWS, Azure
     - Charging Systems
-    - Applications Servers and Network Servers.
+    - Applications Servers and Network Servers
 education:
   title: Education
   info:
     - degree: Systems Analist
-      university: Escuela Tecnológica Superior (Universidad de Piura)
-      time: 2011 - 2012
+      university: Universidad de Piura - Escuela Tecnológica Superior
+      time: 2007 - 2009
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,8 +83,8 @@ education:
           - Bullet point
           - Bullet point
     - degree: Systems Programmer
-      university: Escuela Tecnológica Superior (Universidad de Piura)
-      time: 2007 - 2011
+      university: Universidad de Piura - Escuela Tecnológica Superior
+      time: 2007 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -100,12 +100,11 @@ experiences:
       time: Nov 2020 - Aug 2022
       company: Indra
       details: |
-        ++ Client: Telefónica del Perú
+        ++ Client: Telefónica del Perú | Sector: Telco
 
         ++ About :
-        I worked for the "Claims Team" designing and developing robots & automations for the processes of "registering a claim", "previous consultation of the claim", "answering the claim", for claims from Osiptel origin (landline & mobile, 1st & 2nd instance) & the "Book of Claims" (Indecopi origin).
-
-        I led the technical part of the team, did passes to production & monitoring, issues troubleshooting, repos administration, team mentoring, team training for devOps, stakeholder management & improvement proposals.
+        - I worked for the "Claims Team" where I designed and developed robots and automations for various claim processes, including "claim registration", "previous consultation", and "claim resolution". These processes covered claims originating from Osiptel (landline and mobile, 1st and 2nd instance) as well as the "Book of Claims" from Indecopi.
+        - In my role, I led the technical aspects of the team, overseeing passes to production, monitoring, and troubleshooting issues. I also managed repositories, mentored the team, conducted devOps training, handled stakeholder management, and made improvement proposals.
 
         ++ Technologies:
         - Python
@@ -134,20 +133,20 @@ experiences:
       time: Oct 2019 - Nov 2020
       company: Global HITSS (Claro), Lima
       details: |
-        ++ Client: Claro (América Móvil)
+        ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About :
-        After my previous experience working for the same client I became a technical leader and led the team achieve other goals on the project e.g.      
-        - Maintenance of the E2E Notificaction Procesess documentend and align to Claro Development Standars
+        After my previous experience working for the same client I became technical leader and successfully guided the team in achieving additional project goals e.g.
+        - "Navigation Attempt for Prepaid Clients - Notification" feature.
+        - "Turning Phone On for Prepaid Clients - Notification" feature.
+        - "Degradation of Wireless Internet IFI and LTE - Notification" feature.
+        - Notificactions Proceses E2E - Maintenance and documentation aligned to Claro Development Standars.
         - Management and monitoring of Production Passes.
         - Risk Management of initiatives.
-        - Issues troubleshooting for Prepaid Platform & Apps 
-        - Participation in the committees of production passes. Transfer to support and monitoring teams
-        - Definition and implementation of the "Navigation Attempt for Prepaid Clients - Notification"
-        - "Turning On the phone for Prepaid Clients - Notification"
-        - "Degradation of Wireless Internet IFI and LTE - Notification"
-        - Linux Scripts migration from using IN (Optiva) to use CBIO (Ericson)
-        - Programming of the EAI integration to reduce the load of transactions reaching the IN, using Huawei PCRF as an intermediary
+        - Issues troubleshooting for Prepaid Platform & Apps.
+        - Participation in the committees of production passes. Transfer to support and monitoring teams.
+        - Linux Scripts migration from using IN (Optiva) to use CBIO (Ericson).
+        - Programming of the EAI integration to reduce the load of transactions reaching the IN, using Huawei PCRF as an intermediary.
 
         ++ Technologies:
         - Java
@@ -166,9 +165,9 @@ experiences:
         - SQL, PL/SQL
         - Linux scripting
         - Apache James Server
-        - Huawei - USSD gateway (Unstructured Supplementary Service Data)
+        - Huawei - USSD Push Gateway (Unstructured Supplementary Service Data)
         - Huawei - IPCC IVR (Internet Protocol Contact Center, Interactive Voice Response)
-        - Mobiera - SAT gateway
+        - Mobiera - SAT Push Gateway (Service Access Terminal)
         - Mahindra - NGAGE Notifications Manager
         - Nokia - IN Unified OCS (Intelligent Network, Online Charging System)
         - Optiva - IN (Intelligent Network)
@@ -195,15 +194,15 @@ experiences:
       time: Oct 2018 - Oct 2019
       company: MDP Consulting
       details: |
-        ++ Client: Claro (América Móvil)
+        ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About :
-        I worked for the team "Functional Notifications" after called "Automatic Notifications" developing, testing and delivering documented features and fixes with the objective to sell mobile data packages when some mobile event were triggered through notifications (interactive messages in mobile phones) e.g.
-        - development and maintenance of the "Recharge - Notification"
-        - "Triple your Phone Credit - Notification"
-        - "Upgrade at Data Depletion - Notification"
-        - "Call without Phone Credit - Notification"
-        - Participation in the in-house project "Functional Notifications Engine"
+        I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in great monthly revenue, for example.
+        - "Recharge - Notification" feature.
+        - "Triple your Phone Credit - Notification" feature.
+        - "Upgrade at Data Depletion - Notification" feature.
+        - "Call without Phone Credit - Notification" feature.
+        - "Functional Notifications Engine" feature.
 
         ++ Technologies:
         - Java
@@ -217,14 +216,14 @@ experiences:
         - Oracle WebLogic Server SOA
         - Oracle WebLogic Server Middleware
         - Oracle WebLogic EAI
-        - Oracle Service Bus (OSB)      
+        - Oracle Service Bus (OSB)
         - Oracle Database
         - SQL, PL/SQL
         - Linux scripting
         - Apache James Server
-        - Huawei - USSD gateway (Unstructured Supplementary Service Data)
+        - Huawei - USSD Push Gateway (Unstructured Supplementary Service Data)
         - Huawei - IPCC IVR (Internet Protocol Contact Center, Interactive Voice Response)
-        - Mobiera - SAT gateway  (SMS Application Testing)
+        - Mobiera - SAT Push Gateway (Service Access Terminal)
         - Mahindra - NGAGE Notifications Manager
         - Nokia - IN Unified OCS (Intelligent Network, Online Charging System)
         - Optiva - IN (Intelligent Network)
@@ -247,10 +246,9 @@ experiences:
       time: Apr 2018 - Oct 2018
       company: MDP Consulting
       details: |
-        ++ Client: Belmond
+        ++ Client: Belmond | Sector: Luxury Hospitality and Travel
 
-        ++ About :
-        I had participation in the projects: "schools web" to modify rules and fares for children field trips in Belmond's Cusco local trains, and "information screens" also for trains.
+        ++ About : I had participation in the projects: "Schools Web" which involved modifying rules and fares for children's field trips on Belmond's Cusco local trains, and the "Information Screens" project, focused on developing informational displays for the trains.
 
         ++ Technologies:
         - Microsoft .NET Framework
@@ -285,12 +283,12 @@ experiences:
       time: Aug 2016 - Jun 2017
       company: Sanitas Perú EPS
       details: |
-        ++ Client: "internal IT staff member"
+        ++ Client: Internal IT staff member | Sector: Health Insurance Provider
 
         ++ About :
-        - I developed, tested, deliver and documented features and fixes to the the main app of affiliations and sales.      
-        - I developed a windows service to report our affiliations & disaffiliation records in real time to the National Superintendence of Health (SUSALUD) by putting messages in their queue.
-        - I trained the developer team in the use of source control systems (git) and the instalation & use of GitLab.       
+        - Developed, tested, delivered, and documented various features and fixes for the primary affiliations and sales application.
+        - Created a Windows service to enable real-time reporting of affiliations, disaffiliation and interactions records to the National Superintendence of Health (SUSALUD) by efficiently placing messages in their designated queue.
+        - Conducted training sessions for the developer team, focusing on source control systems (git) and the installation and utilization of GitLab.
 
         ++ Technologies:
         - Microsoft .NET Framework
@@ -327,11 +325,11 @@ experiences:
       time: Aug 2014 - Aug 2016
       company: Cosapi Data
       details: |
-        ++ Client: Claro (América Móvil)
+        ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About:
-        I developed, documented and pass (to certification and production) various features to the many apps in the company especially to the prepaid and postpaid web apps (.NET).
-        I also worked developing and delivering fixes, as I was for almost a year level 3 escalation for level 2 helpdesk tickets for about a 100 of them among multiple apps.
+        - I developed, documented, and successfully implemented multiple features for various apps within the company, with a particular focus on prepaid, postpaid and sells web apps (.NET).
+        - Additionally, I served as a level 3 escalation point for level 2 helpdesk tickets for nearly a year, addressing and resolving approximately 150 tickets across multiple applications.
 
         ++ Technologies:
         - Microsoft .NET Framework
@@ -363,15 +361,15 @@ experiences:
       time: Oct 2013 - Jun 2014
       company: Matzziel Salcedo Consultores
       details: |
-        ++ Client: "internal IT staff member"
+        ++ Client: Retirement Military Cooperative Aid (ACMR Perú) | Sector: Financial Services
+        ++ About: Developed an application for managing collections, bonuses, and loans.
 
-        ++ About :
-        I developed and proposed requirements from meetings with clients e.g.
-        - app for collections, bonuses and loans for the Retirement Military Cooperative Aid (ACMR Perú - nonprofit organization)
-        - In-house "warehouse management app" - New Modules
-        - In-house "warehouse management app" - SQL Server 2005 migration to SQL Server 2008
-        - In-house "warehouse management app" - DevExpress 3 migration to DevExpress 10
-        - In-house "warehouse management app" - Integration to Siscont app
+        ++ Client: Internal IT staff member
+        ++ About: Developed an in-house "Warehouse Management app".
+        - Implemented new modules to enhance the functionality of the app.
+        - Successfully migrated from SQL Server 2005 to SQL Server 2008.
+        - Upgraded DevExpress version from 3 to DevExpress 10.
+        - Integrated the app with Siscont, a third-party application.
 
         ++ Technologies:
         - Microsoft .NET Framework
@@ -387,11 +385,11 @@ experiences:
       time: Mar 2013 - Aug 2013
       company: METROIL
       details: |
-        ++ Client: "internal IT staff member"
+        ++ Client: Internal IT staff member | Sector: Metrology Services
 
         ++ About :
-        I worked as an internal IT staff member of the company where the main bussiness was the calibration and certification of measuring devices.
-        I did maintenance of the "calibrations app" and support for Debian users to maintain them connected from its Debian clients to their remote desktops inside Windows Server through rdesktop.
+        - I worked as an internal IT staff member of the company wich was specialized in calibration and certification of measuring devices.
+        - My responsibilities included maintaining the "Calibrations app" and providing support to Debian users. I ensured that the Debian clients were able to connect to their remote desktops on Windows Server using rdesktop, and I provided technical assistance to resolve any connectivity issues.
 
         ++ Technologies:
         - Microsoft .NET Framework
