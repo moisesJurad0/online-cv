@@ -61,7 +61,7 @@ career-profile:
 
     - Python (Django, Flask, Selenium, Beautiful Soup, Requests, Pandas)
     - Java (Spring, Maven, JMS, MDB)
-    - C#, .NET, ASP.NET MVC, Web API, WCF
+    - C#, .NET, ASP.NET (MVC, Web API), WCF, Entity Framework
     - Blue Prism
     - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
     - Git (GitHub, GitHub Actions, GitLab, BitBucket)
@@ -102,7 +102,7 @@ experiences:
       details: |
         ++ Client: Telefónica del Perú | Sector: Telco
 
-        ++ About :
+        ++ About:
         - I worked for the "Claims Team" where I designed and developed robots and automations for various claim processes, including "claim registration", "previous consultation", and "claim resolution". These processes covered claims originating from Osiptel (landline and mobile, 1st and 2nd instance) as well as the "Book of Claims" from Indecopi.
         - In my role, I led the technical aspects of the team, overseeing passes to production, monitoring, and troubleshooting issues. I also managed repositories, mentored the team, conducted devOps training, handled stakeholder management, and made improvement proposals.
 
@@ -118,7 +118,7 @@ experiences:
         - SQL, T-SQL
         - CI/CD, DevOps
         - Docker + k8s
-        - Blue Prism + VB.NET modules + C# modules
+        - Blue Prism + .NET modules (C# & Visual Basic)
         - AWK (Linux)
 
         ++ Process: Scrum, RPA
@@ -135,7 +135,7 @@ experiences:
       details: |
         ++ Client: Claro (América Móvil) | Sector: Telco
 
-        ++ About :
+        ++ About:
         After my previous experience working for the same client I became technical leader and successfully guided the team in achieving additional project goals e.g.
         - "Navigation Attempt for Prepaid Clients - Notification" feature.
         - "Turning Phone On for Prepaid Clients - Notification" feature.
@@ -196,8 +196,8 @@ experiences:
       details: |
         ++ Client: Claro (América Móvil) | Sector: Telco
 
-        ++ About :
-        I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in great monthly revenue, for example.
+        ++ About:
+        I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in a monthly revenue of $15 million, for example.
         - "Recharge - Notification" feature.
         - "Triple your Phone Credit - Notification" feature.
         - "Upgrade at Data Depletion - Notification" feature.
@@ -248,16 +248,16 @@ experiences:
       details: |
         ++ Client: Belmond | Sector: Luxury Hospitality and Travel
 
-        ++ About : I had participation in the projects: "Schools Web" which involved modifying rules and fares for children's field trips on Belmond's Cusco local trains, and the "Information Screens" project, focused on developing informational displays for the trains.
+        ++ About: I had participation in the projects: "Schools Web" which involved modifying rules and fares for children's field trips on Belmond's Cusco local trains, and the "Information Screens" project, focused on developing informational displays for the trains.
 
         ++ Technologies:
-        - Microsoft .NET Framework
+        - .NET
         - C#
         - ASP.NET MVC
         - Razor
         - WCF
         - LINQ
-        - Microsoft Entity Framework
+        - Entity Framework
         - IIS
         - JavaScript
         - jQuery
@@ -266,6 +266,7 @@ experiences:
         - CSS3
         - AJAX
         - JSON
+        - XML
         - Microsoft SQL Server
         - SQL, T-SQL
         - WPF
@@ -285,13 +286,13 @@ experiences:
       details: |
         ++ Client: Internal IT staff member | Sector: Health Insurance Provider
 
-        ++ About :
+        ++ About:
         - Developed, tested, delivered, and documented various features and fixes for the primary affiliations and sales application.
         - Created a Windows service to enable real-time reporting of affiliations, disaffiliation and interactions records to the National Superintendence of Health (SUSALUD) by efficiently placing messages in their designated queue.
         - Conducted training sessions for the developer team, focusing on source control systems (git) and the installation and utilization of GitLab.
 
         ++ Technologies:
-        - Microsoft .NET Framework
+        - .NET
         - C#
         - ASP.NET MVC
         - Razor
@@ -311,7 +312,6 @@ experiences:
         - XML
         - Oracle Database
         - SQL, PL/SQL
-        - Java
         - Windows Services
         - WebSphere MQ
 
@@ -328,13 +328,13 @@ experiences:
         ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About:
-        - I developed, documented, and successfully implemented multiple features for various apps within the company, with a particular focus on prepaid, postpaid and sells web apps (.NET).
-        - Additionally, I served as a level 3 escalation point for level 2 helpdesk tickets for nearly a year, addressing and resolving approximately 150 tickets across multiple applications.
+        - I developed, documented, and successfully implemented multiple features for various apps (approx. 12 apps) within the company, with a particular focus on prepaid, postpaid and sells web apps (.NET).
+        - Additionally, I served as a level 3 escalation point for level 2 helpdesk tickets for nearly a year, addressing and resolving approximately 150 tickets across multiple applications (approx. 20 apps).
 
         ++ Technologies:
-        - Microsoft .NET Framework
+        - .NET
         - C#
-        - Visual Basic .NET
+        - Visual Basic
         - ASP.NET
         - WCF
         - IIS
@@ -372,9 +372,9 @@ experiences:
         - Integrated the app with Siscont, a third-party application.
 
         ++ Technologies:
-        - Microsoft .NET Framework
+        - .NET
         - C#
-        - Visual Basic .NET
+        - Visual Basic
         - Microsoft SQL Server
         - SQL, T-SQL
         - DevExpress
@@ -387,14 +387,14 @@ experiences:
       details: |
         ++ Client: Internal IT staff member | Sector: Metrology Services
 
-        ++ About :
+        ++ About:
         - I worked as an internal IT staff member of the company wich was specialized in calibration and certification of measuring devices.
         - My responsibilities included maintaining the "Calibrations app" and providing support to Debian users. I ensured that the Debian clients were able to connect to their remote desktops on Windows Server using rdesktop, and I provided technical assistance to resolve any connectivity issues.
 
         ++ Technologies:
-        - Microsoft .NET Framework
+        - .NET
         - Visual Basic 6.0
-        - Visual Basic .NET
+        - Visual Basic
         - Microsoft SQL Server
         - SQL, T-SQL
         - Microsoft Windows Server
