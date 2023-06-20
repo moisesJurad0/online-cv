@@ -473,19 +473,15 @@ skills:
 
   toolset:
     - skill:
-      name: Python
+      name: Python => Requests, Selenium, Beautiful Soup, Pandas
       level: 100%
-
-    - skill:
-      name: Selenium
-      level: 90%
 
     - skill:
       name: Python - RPA Framework & Robot Framework & Robocorp
       level: 70%
 
     - skill:
-      name: Django & Flask
+      name: Python - Django & Flask
       level: 70%
 
     - skill:
