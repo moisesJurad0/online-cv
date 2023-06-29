@@ -59,7 +59,7 @@ career-profile:
 
     ++ My set of skills:
 
-    - Python (Django, Flask, Selenium, Beautiful Soup, Requests, Pandas, Matplotlib, Robot Framework, Scrapy)
+    - Python (Requests, Pandas, pysftp, SQLAlchemy, Selenium, Beautiful Soup, Django, Flask, Matplotlib, Robot Framework, Scrapy)
     - Java (Spring, Maven, JMS, MDB)
     - C#, .NET, ASP.NET (MVC, Web API), WCF, Entity Framework
     - Blue Prism
