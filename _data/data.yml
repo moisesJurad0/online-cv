@@ -106,7 +106,7 @@ experiences:
       time: Nov 2020 - Aug 2022
       company: Indra
       details: |
-        ++ Client: Telefónica del Perú ¦ Sector: Telco
+        ++ Client: Telefónica del Perú || Sector: Telco
 
         ++ About:
         - I worked for the "Claims Team" where I designed and developed robots and automations for various claim processes, including "claim registration", "previous consultation", and "claim resolution". These processes covered claims/complaints originating from Osiptel (landline and mobile, 1st and 2nd instance) as well as the "Book of Claims" from Indecopi.
@@ -139,7 +139,7 @@ experiences:
       time: Oct 2019 - Nov 2020
       company: Global HITSS (Claro), Lima
       details: |
-        ++ Client: Claro (América Móvil) ¦ Sector: Telco
+        ++ Client: Claro (América Móvil) || Sector: Telco
 
         ++ About:
         After my previous experience working for the same client I became technical leader and successfully guided the same team in achieving additional goals, e.g.
@@ -200,7 +200,7 @@ experiences:
       time: Oct 2018 - Oct 2019
       company: MDP Consulting
       details: |
-        ++ Client: Claro (América Móvil) ¦ Sector: Telco
+        ++ Client: Claro (América Móvil) || Sector: Telco
 
         ++ About:
         I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in a monthly revenue of approx. $15 million, e.g.
@@ -252,7 +252,7 @@ experiences:
       time: Apr 2018 - Oct 2018
       company: MDP Consulting
       details: |
-        ++ Client: Belmond ¦ Sector: Luxury Hospitality and Travel
+        ++ Client: Belmond || Sector: Luxury Hospitality and Travel
 
         ++ About: I had participation in the projects: "Schools Web" which involved modifying rules and fares for children's field trips on Belmond's Cusco local trains, and the "Information Screens" project, focused on developing informational displays for the trains.
 
@@ -290,7 +290,7 @@ experiences:
       time: Aug 2016 - Jun 2017
       company: Sanitas Perú EPS
       details: |
-        ++ Client: Internal IT staff member ¦ Sector: Health Insurance Provider
+        ++ Client: Internal IT staff member || Sector: Health Insurance Provider
 
         ++ About:
         - Developed, tested, delivered, and documented various features and fixes for the primary affiliations and sales application.
@@ -331,7 +331,7 @@ experiences:
       time: Aug 2014 - Aug 2016
       company: Cosapi Data
       details: |
-        ++ Client: Claro (América Móvil) ¦ Sector: Telco
+        ++ Client: Claro (América Móvil) || Sector: Telco
 
         ++ About:
         - I developed, documented, and successfully implemented multiple features for various apps (approx. 12 apps) within the company, with a particular focus on prepaid, postpaid and sells web apps (.NET).
@@ -367,7 +367,7 @@ experiences:
       time: Oct 2013 - Jun 2014
       company: Matzziel Salcedo Consultores
       details: |
-        ++ Client: Retirement Military Cooperative Aid (ACMR Perú) ¦ Sector: Financial Services
+        ++ Client: Retirement Military Cooperative Aid (ACMR Perú) || Sector: Financial Services
         ++ About: Developed an application for managing collections, bonuses, and loans.
 
         ++ Client: Internal IT staff member
@@ -391,7 +391,7 @@ experiences:
       time: Mar 2013 - Aug 2013
       company: METROIL
       details: |
-        ++ Client: Internal IT staff member ¦ Sector: Metrology Services
+        ++ Client: Internal IT staff member || Sector: Metrology Services
 
         ++ About:
         - I worked as an internal IT staff member of the company wich was specialized in calibration and certification of measuring devices.
@@ -409,43 +409,39 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
+        - name: "AWS Cloud Quest: Cloud Practitioner"
+          start: May. 2023
+          end:
+          organization: Amazon Web Services Training and Certification
+          credentialid: 
+          credentialurl: https://www.credly.com/badges/128f217b-6f25-47d2-9fe7-c955a6dc4ba9
+          credentialname:
+          details:
+        - name: "Microsoft Certified: Azure Fundamentals"
+          start: Apr. 2023
           end:
           organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+          credentialid: I699-5411
+          credentialurl: https://www.credly.com/badges/bb220481-e07d-407f-8585-219bb54c4135
+          credentialname:
+          details:
+        - name: Professional Scrum Developer™ I (PSD I)
+          start: Feb. 2023
+          end:
+          organization: Scrum.org
+          credentialid: 
+          credentialurl: https://www.credly.com/badges/f7f1e6b9-8647-40b6-ba52-098d20e9b77e
+          credentialname:
+          details:
+        - name: Scrum Foundation Professional Certificate - SFPC™
+          start: Aug. 2020
+          end:
+          organization: CertiProf
+          credentialid: 
+          credentialurl: https://www.credly.com/badges/dccdadd2-265a-436b-9c1c-ff9f6af6d5f0
+          credentialname:
+          details:
+            
         
 # projects:
 #     title: Projects
