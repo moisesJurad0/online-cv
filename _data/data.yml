@@ -53,21 +53,27 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Hi 👋 I'm Moisés, thanks for visiting my profile
-
+    + Hi 👋 I'm Moisés, thanks for visiting my profile 🙇🙇‍♀️🙇‍♂️
     I'm a sr developer with 9 years of experience
 
     ++ My set of skills:
-
     - Python (Requests, Pandas, pysftp, SQLAlchemy, Selenium, Beautiful Soup, Django, Flask, Matplotlib, Robot Framework, Scrapy)
     - Java (Spring, Maven, JMS, MDB)
     - C#, .NET, ASP.NET (MVC, Web API), WCF, Entity Framework
+    - Linux scripting, AWK
     - Blue Prism
     - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL), PostgreSQL, DynamoDB
     - Git (GitHub, GitHub Actions, GitLab, BitBucket)
+    - Docker, Docker Compose
     - AWS, Azure
     - Charging Systems
     - Applications Servers and Network Servers
+
+    ++ Checkout my GitHub: 
+    github.com/moisesjurad0
+
+    ++ Checkout my Creddly:
+    credly.com/users/moisesjurad0
 education:
   title: Education
   info:
@@ -150,8 +156,8 @@ experiences:
 
         ++ Technologies:
         - Java
-        - Spring Framework
-        - Apache Maven
+        - Spring
+        - Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
@@ -206,8 +212,8 @@ experiences:
 
         ++ Technologies:
         - Java
-        - Spring Framework
-        - Apache Maven
+        - Spring
+        - Maven
         - SOAP
         - REST
         - Java Message Service (JMS)
