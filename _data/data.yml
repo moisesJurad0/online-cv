@@ -59,11 +59,11 @@ career-profile:
 
     ++ My set of skills:
 
-    - Python (Django, Flask, Selenium, Beautiful Soup, Requests, Pandas)
+    - Python (Django, Flask, Selenium, Beautiful Soup, Requests, Pandas, Matplotlib, Robot Framework, Scrapy)
     - Java (Spring, Maven, JMS, MDB)
     - C#, .NET, ASP.NET (MVC, Web API), WCF, Entity Framework
     - Blue Prism
-    - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL)
+    - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL), PostgreSQL, DynamoDB
     - Git (GitHub, GitHub Actions, GitLab, BitBucket)
     - AWS, Azure
     - Charging Systems
@@ -103,7 +103,7 @@ experiences:
         ++ Client: Telefónica del Perú | Sector: Telco
 
         ++ About:
-        - I worked for the "Claims Team" where I designed and developed robots and automations for various claim processes, including "claim registration", "previous consultation", and "claim resolution". These processes covered claims originating from Osiptel (landline and mobile, 1st and 2nd instance) as well as the "Book of Claims" from Indecopi.
+        - I worked for the "Claims Team" where I designed and developed robots and automations for various claim processes, including "claim registration", "previous consultation", and "claim resolution". These processes covered claims/complaints originating from Osiptel (landline and mobile, 1st and 2nd instance) as well as the "Book of Claims" from Indecopi.
         - In my role, I led the technical aspects of the team, overseeing passes to production, monitoring, and troubleshooting issues. I also managed repositories, mentored the team, conducted devOps training, handled stakeholder management, and made improvement proposals.
 
         ++ Technologies:
@@ -136,11 +136,11 @@ experiences:
         ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About:
-        After my previous experience working for the same client I became technical leader and successfully guided the team in achieving additional project goals e.g.
+        After my previous experience working for the same client I became technical leader and successfully guided the same team in achieving additional goals, e.g.
         - "Navigation Attempt for Prepaid Clients - Notification" feature.
         - "Turning Phone On for Prepaid Clients - Notification" feature.
         - "Degradation of Wireless Internet IFI and LTE - Notification" feature.
-        - Notificactions Proceses E2E - Maintenance and documentation aligned to Claro Development Standars.
+        - Notificactions Proceses E2E - Maintenance and documentation aligned to Claro Development Standards.
         - Management and monitoring of Production Passes.
         - Risk Management of initiatives.
         - Issues troubleshooting for Prepaid Platform & Apps.
@@ -197,7 +197,7 @@ experiences:
         ++ Client: Claro (América Móvil) | Sector: Telco
 
         ++ About:
-        I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in a monthly revenue of $15 million, for example.
+        I developed, tested, and delivered documented features and fixes for "Automatic Mobile Notifications". These notifications are aimed at promoting the sale of mobile data packages triggered by mobile events through interactive notifications on mobile phones, resulting in a monthly revenue of approx. $15 million, e.g.
         - "Recharge - Notification" feature.
         - "Triple your Phone Credit - Notification" feature.
         - "Upgrade at Data Depletion - Notification" feature.
