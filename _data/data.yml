@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Moisés Jurado
-  tagline: Full Stack, Py, C#, Java Developer
+  tagline: Full Stack Developer | Python | C# | Java | PSD I | CI/CD
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -137,7 +137,7 @@ experiences:
         - Splunk
     - role: Technical leader
       time: Oct 2019 - Nov 2020
-      company: Global HITSS (Claro), Lima
+      company: Global HITSS
       details: |
         ++ Client: Claro (América Móvil) // Sector: Telco
 
