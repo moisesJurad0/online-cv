@@ -63,8 +63,10 @@ career-profile:
     - Linux scripting, AWK
     - Blue Prism
     - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL), MySQL, SQLite, PostgreSQL, DynamoDB
-    - Git (GitHub, GitHub Actions, GitLab, BitBucket)
-    - Docker, Docker Compose
+    - CI/CD (GitHub Actions, BitBucket Pipelines)
+    - Git (GitHub, GitLab, BitBucket)
+    - SonarCloud
+    - Docker, Docker Compose, Docker Hub, GitHub Packages
     - AWS, Azure
     - SOAP, REST, Swagger, JavaScript, JQuery, TypeScript
     - Charging Systems
