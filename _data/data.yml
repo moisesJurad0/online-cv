@@ -66,7 +66,7 @@ career-profile:
     - CI/CD (GitHub Actions, BitBucket Pipelines)
     - Git (GitHub, GitLab, BitBucket)
     - SonarCloud
-    - Docker, Docker Compose, Docker Hub, GitHub Packages
+    - Docker, Docker Compose, Docker Hub, GitHub Packages, Kubernetes
     - AWS, Azure
     - SOAP, REST, Swagger, JavaScript, JQuery, TypeScript
     - Charging Systems
@@ -75,7 +75,7 @@ career-profile:
     ++ Checkout my GitHub: 
     github.com/moisesjurad0
 
-    ++ Checkout my Creddly:
+    ++ Checkout my Credly:
     credly.com/users/moisesjurad0
 education:
   title: Education
@@ -126,7 +126,7 @@ experiences:
         - Microsoft SQL Server
         - SQL, T-SQL
         - CI/CD, DevOps
-        - Docker + k8s
+        - Docker, Kubernetes
         - Blue Prism + .NET modules (C# & Visual Basic)
         - AWK (Linux)
 
