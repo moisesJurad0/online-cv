@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Moisés Jurado
-  tagline: Full Stack Developer | Python | C# | Java | PSD I | CI/CD
+  tagline: Full Stack Developer | Python | DevOps Engineer | CI/CD | PSD I
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -66,7 +66,8 @@ career-profile:
     - CI/CD (GitHub Actions, BitBucket Pipelines)
     - Git (GitHub, GitLab, BitBucket)
     - SonarCloud
-    - Docker, Docker Compose, Docker Hub, GitHub Packages, Kubernetes
+    - Docker, Docker Compose, Docker Hub, GitHub Packages
+    - Kubernetes, Kubectl, Helm, Operators, ArgoCD, Prometheus, Prometheus Exporters, Grafana, Nginx Ingress Controller
     - AWS, Azure
     - SOAP, REST, Swagger, JavaScript, JQuery, TypeScript
     - Charging Systems
@@ -410,42 +411,41 @@ experiences:
         - Debian GNU/Linux
 
 certifications:
-      title: Certifications
-      list:
-        - name: "AWS Cloud Quest: Cloud Practitioner"
-          start: May. 2023
-          end:
-          organization: Amazon Web Services Training and Certification
-          credentialid: 
-          credentialurl: https://www.credly.com/badges/128f217b-6f25-47d2-9fe7-c955a6dc4ba9
-          credentialname:
-          details:
-        - name: "Microsoft Certified: Azure Fundamentals"
-          start: Apr. 2023
-          end:
-          organization: Microsoft
-          credentialid: I699-5411
-          credentialurl: https://www.credly.com/badges/bb220481-e07d-407f-8585-219bb54c4135
-          credentialname:
-          details:
-        - name: Professional Scrum Developer™ I (PSD I)
-          start: Feb. 2023
-          end:
-          organization: Scrum.org
-          credentialid: 
-          credentialurl: https://www.credly.com/badges/f7f1e6b9-8647-40b6-ba52-098d20e9b77e
-          credentialname:
-          details:
-        - name: Scrum Foundation Professional Certificate - SFPC™
-          start: Aug. 2020
-          end:
-          organization: CertiProf
-          credentialid: 
-          credentialurl: https://www.credly.com/badges/dccdadd2-265a-436b-9c1c-ff9f6af6d5f0
-          credentialname:
-          details:
-            
-        
+  title: Certifications
+  list:
+    - name: "AWS Cloud Quest: Cloud Practitioner"
+      start: May. 2023
+      end:
+      organization: Amazon Web Services Training and Certification
+      credentialid:
+      credentialurl: https://www.credly.com/badges/128f217b-6f25-47d2-9fe7-c955a6dc4ba9
+      credentialname:
+      details:
+    - name: "Microsoft Certified: Azure Fundamentals"
+      start: Apr. 2023
+      end:
+      organization: Microsoft
+      credentialid: I699-5411
+      credentialurl: https://www.credly.com/badges/bb220481-e07d-407f-8585-219bb54c4135
+      credentialname:
+      details:
+    - name: Professional Scrum Developer™ I (PSD I)
+      start: Feb. 2023
+      end:
+      organization: Scrum.org
+      credentialid:
+      credentialurl: https://www.credly.com/badges/f7f1e6b9-8647-40b6-ba52-098d20e9b77e
+      credentialname:
+      details:
+    - name: Scrum Foundation Professional Certificate - SFPC™
+      start: Aug. 2020
+      end:
+      organization: CertiProf
+      credentialid:
+      credentialurl: https://www.credly.com/badges/dccdadd2-265a-436b-9c1c-ff9f6af6d5f0
+      credentialname:
+      details:
+
 # projects:
 #     title: Projects
 #     intro: >
