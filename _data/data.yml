@@ -576,69 +576,69 @@ certifications:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-  title: Skills &amp; Proficiency
+# skills:
+#   title: Skills &amp; Proficiency
 
-  toolset:
-    - skill:
-      name: Python => Requests, Selenium, Beautiful Soup, Pandas
-      level: 100%
+#   toolset:
+#     - skill:
+#       name: Python => Requests, Selenium, Beautiful Soup, Pandas
+#       level: 100%
 
-    - skill:
-      name: Python - RPA Framework & Robot Framework & Robocorp
-      level: 70%
+#     - skill:
+#       name: Python - RPA Framework & Robot Framework & Robocorp
+#       level: 70%
 
-    - skill:
-      name: Python - Django & Flask
-      level: 70%
+#     - skill:
+#       name: Python - Django & Flask
+#       level: 70%
 
-    - skill:
-      name: Docker & Compose
-      level: 70%
+#     - skill:
+#       name: Docker & Compose
+#       level: 70%
 
-    - skill:
-      name: AWS, Azure
-      level: 65%
+#     - skill:
+#       name: AWS, Azure
+#       level: 65%
 
-    - skill:
-      name: Javascript & jQuery
-      level: 70%
+#     - skill:
+#       name: Javascript & jQuery
+#       level: 70%
 
-    - skill:
-      name: HTML5 & CSS
-      level: 70%
+#     - skill:
+#       name: HTML5 & CSS
+#       level: 70%
 
-    - skill:
-      name: C#
-      level: 100%
+#     - skill:
+#       name: C#
+#       level: 100%
 
-    - skill:
-      name: Java
-      level: 80%
+#     - skill:
+#       name: Java
+#       level: 80%
 
-    - skill:
-      name: Git & GitHub & Github Actions, GitLab
-      level: 90%
+#     - skill:
+#       name: Git & GitHub & Github Actions, GitLab
+#       level: 90%
 
-    - skill:
-      name: Jenkins
-      level: 60%
+#     - skill:
+#       name: Jenkins
+#       level: 60%
 
-    - skill:
-      name: Jekyll
-      level: 50%
+#     - skill:
+#       name: Jekyll
+#       level: 50%
 
-    - skill:
-      name: Oracle Database
-      level: 75%
+#     - skill:
+#       name: Oracle Database
+#       level: 75%
 
-    - skill:
-      name: SQL Server
-      level: 75%
+#     - skill:
+#       name: SQL Server
+#       level: 75%
 
-    - skill:
-      name: Scrum
-      level: 85%
+#     - skill:
+#       name: Scrum
+#       level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
