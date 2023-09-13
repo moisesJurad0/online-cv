@@ -70,7 +70,7 @@ career-profile:
     - SonarCloud
     - Docker, Docker Compose, Docker Hub, GitHub Packages
     - Kubernetes, Kubectl, Helm, Operators, ArgoCD, Prometheus, Prometheus Exporters, Grafana, Nginx Ingress Controller
-    - AWS, Azure
+    - AWS, Azure, Terraform
     - SOAP, REST, Swagger, JavaScript, JQuery, TypeScript
     - Charging Systems
     - Applications Servers and Network Servers
