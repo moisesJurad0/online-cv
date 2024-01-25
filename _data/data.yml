@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Moisés Jurado
-  tagline: Full Stack Developer | Python | DevOps Engineer | CI/CD | RPA Developer | PSD I
+  tagline: Backend Developer | Python | DevOps | CI/CD | RPA | PSD I
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -64,7 +64,7 @@ career-profile:
     - C#, .NET, ASP.NET (MVC & Web API), Razor Pages, WCF, EF Core, LINQ
     - Linux scripting, AWK
     - Blue Prism
-    - Oracle Database (PL/SQL), Microsoft SQL Server (Transact-SQL), MySQL, SQLite, PostgreSQL, DynamoDB
+    - Oracle Database (PL/SQL), Microsoft SQL Server (T-SQL), MySQL, SQLite, PostgreSQL, DynamoDB
     - CI/CD (GitHub Actions, BitBucket Pipelines)
     - Git (GitHub, GitLab, BitBucket)
     - SonarCloud
